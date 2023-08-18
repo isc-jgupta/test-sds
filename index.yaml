@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  helm:
+  - annotations:
+      intersystems/sds-category: custom
+      intersystems/sds-organization: InterSystems Corporation
+      intersystems/sds-title: Testing out service
+    apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-18T08:34:03.1707587-04:00"
+    description: A Helm chart for Kubernetes
+    digest: e435a83703b57677260f5937b8f8172be6e92423fad4fe77ca678bd8d19e9f59
+    name: helm
+    type: application
+    urls:
+    - https://isc-jgupta.github.io/test-sds/helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-18T08:34:03.1702073-04:00"
